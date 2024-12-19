@@ -162,5 +162,3 @@ Run the `restart.sh` script to clean, build, and start the application:
 
 ### **Conclusion**
 This application demonstrates how to use Apache Kafka for real-time communication between microservices. By combining Kafka's robust event streaming capabilities with Spring Boot's integration, it provides a scalable and fault-tolerant solution for handling events. 🚀
-
-Let me know if further refinements are needed! 🚀# kafka-basics
